@@ -11,3 +11,10 @@ https://kipalog.com/posts/Dung-Google-de-HACK-thoi-gian-hoc-va-ung-dung-cong-ngh
 
 https://kipalog.com/posts/Su-dung-NGINX-nhu-mot-Load-Balancer
 
+http://responsifyjs.space/
+
+https://github.com/codrops/BookBlock
+
+http://fengyuanchen.github.io/viewer/
+
+http://codepen.io/mike-zarandona/full/Dasnw
