@@ -21,3 +21,4 @@ http://codepen.io/mike-zarandona/full/Dasnw
 
 https://webslides.tv/#slide=1
 
+http://toiit.com/huong-dan-dong-bo-realtime-folder-file-giua-2-hoac-nhieu-server-voi-rsync.html
