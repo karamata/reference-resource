@@ -26,3 +26,5 @@ http://toiit.com/huong-dan-dong-bo-realtime-folder-file-giua-2-hoac-nhieu-server
 http://www.instantshift.com/2016/01/22/free-html5-css3-loaders-preloaders/
 
 https://kipalog.com/posts/Tu-tao-server-TURN-cho-WebRTC-tren-CentOS
+
+https://viblo.asia/vigov5/posts/mDYGDPLVGpx
